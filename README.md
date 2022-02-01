@@ -14,8 +14,8 @@ FindMe jest aplikacją mobilną na urządzenia mobilne z systemami iOS oraz Andr
 
 Zepsół składa się aktualnie z trzech osób tworzących i rozwijających aplikację FindMe oraz rozwiązania grupy Findock.
 
-- Marcelina - Frontend Software Engineer
-- Klaudia - Frontend Software Engineer
+- Marcelina - Frontend Software Engineer & UI/UX Designer
+- Klaudia - Frontend Software Engineer & UI/UX Designer
 - Mateusz - Fullstack Software Engeener & Project Leader
 
 | Marcelina | Klaudia    | Mateusz  |
