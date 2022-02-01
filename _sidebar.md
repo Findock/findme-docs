@@ -1,2 +1,2 @@
-* [FindME](/ "FindME")
-* [O projekcie](/about-project "FindME - O projekcie")
+* [FindMe](/ "FindMe - Dokumentacja")
+* [O projekcie](/about-project/ "FindMe - O projekcie")

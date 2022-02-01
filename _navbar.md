@@ -1,4 +1,4 @@
-* [Findock](https://github.com/Findock)
+* [🐶 Findock](https://github.com/Findock)
 
 * Ecosystem
   * [Findock SonarCloud](https://sonarcloud.io/organizations/findock/projects)
