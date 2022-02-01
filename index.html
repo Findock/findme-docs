@@ -18,14 +18,23 @@
   />
 </head>
 <body>
+  <nav>
+    
+  </nav>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'FindMe',
       repo: '',
-      loadNavbar: true,
       loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
       search: 'auto', 
+      alias: {
+        '/.*/_navbar.md': '/_navbar.md',
+      },
+      maxLevel: 4,
+      subMaxLevel: 2,
       plugins: [
         function(hook) {
           var footer = [
