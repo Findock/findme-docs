@@ -4,6 +4,8 @@ Jest to [dokumentacja projektowa](https://findock.github.io/findme-docs/#/) proj
 
 ## Skład zespołu
 
+WIP
+
 | Marcelina | Klaudia    | Mateusz  |
 |-----------|------------|----------|
 | [<img src="https://avatars.githubusercontent.com/u/61546640?s=512&v=4# rounded" alt="Marcelina" width="100"/>](https://github.com/marcelinax) | [<img src="https://avatars.githubusercontent.com/u/47197438?s=512&v=4# rounded" alt="Klaudia" width="100"/>](https://github.com/heavycavalry) | [<img src="https://avatars.githubusercontent.com/u/39082174?s=512&v=4# rounded" alt="Mateusz" width="100"/>](https://github.com/Mvtthew) |
