@@ -24,18 +24,29 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'FindMe',
+      name: '🐶 FindMe',
       repo: '',
       loadSidebar: true,
       loadNavbar: true,
       mergeNavbar: true,
-      search: 'auto', 
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '🔎 Wyszukaj w dokumentacji',
+        noData: '❌ Brak wyników',
+        hideOtherSidebarContent: true,
+        depth: 3
+      },
+      pagination: {
+        previousText: 'Poprzedni temat',
+        nextText: 'Następny temat'
+      },
       alias: {
         '/.*/_navbar.md': '/_navbar.md',
         '/.*/_sidebar.md': '/_sidebar.md',
       },
       maxLevel: 4,
-      subMaxLevel: 2,
+      subMaxLevel: 3,
       plugins: [
         function(hook) {
           var footer = [
