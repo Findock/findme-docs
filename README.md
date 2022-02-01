@@ -1,8 +1,12 @@
-# 🐶 FindMe
+# 🐶 FindMe - Dokumentacja
+
+Jest to [dokumentacja projektowa](https://findock.github.io/findme-docs/#/) projektu inżynierskiego aplikacji FindMe.
+
+## Skład zespołu
 
 WIP
 
-## Czy jest Findock?
+## Czym jest Findock?
 
 WIP
 
