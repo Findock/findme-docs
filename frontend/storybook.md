@@ -113,7 +113,7 @@ import { date } from '@storybook/addon-knobs';
 ### Przykładowe story
 ```js
 import { storiesOf } from '@storybook/react-native';
-import { withKnobs, text, select } from '@storybook/addon-knobs';
+import { text, select } from '@storybook/addon-knobs';
 import ExampleComponent from '../../components/ExampleComponent';
 import CenterView from './CenterView';
 
@@ -124,7 +124,6 @@ const colorOptions = [
 ]
 
 storiesOf('ExampleComponent', module)
-  .addDecorator(withKnobs)
   .addDecorator((getStory) => <CenterView>{getStory()}</CenterView>)
   .add('ExampleComponent - ExampleText', () => (
     <ExampleComponent text={text('title', 'ExampleText')} color={select('color', colorOptions, 'blue')} />
