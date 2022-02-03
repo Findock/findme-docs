@@ -45,3 +45,11 @@ Usuń skompilowany obraz z dysku komputera (może być pomocne w przypadku błę
 ```bash
 $> yarn ocker:clear
 ```
+
+## Baza danych w środku Dockera
+
+URI połączenia mongodb do bazy danych w dockerze.
+
+```
+mongodb://localhost:27027/find-me-docker
+```
