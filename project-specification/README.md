@@ -211,6 +211,9 @@ Wszystkie dane w bazie danych będą zaszyfrowane.
 - Opis
 - Zdjęcia
 - Lokalizacja 
+- Umaszczenie
+- Płeć
+- Kategoria
 - Dane o użytkowniku zamieszczającym ogłoszenie
 - Komentarze do ogłoszenia
 
