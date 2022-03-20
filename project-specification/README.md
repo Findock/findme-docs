@@ -214,6 +214,8 @@ Wszystkie dane w bazie danych będą zaszyfrowane.
 - Umaszczenie
 - Płeć
 - Kategoria
+- Rasa
+- Znaki szczególne
 - Dane o użytkowniku zamieszczającym ogłoszenie
 - Komentarze do ogłoszenia
 
